@@ -1,0 +1,11 @@
+{
+  "org": "jupyter",
+  "repo": "nbmanager",
+  "versions": [
+    {
+      "commit": "dd26a71c0b625773dab582d47d713d574f2af84b",
+      "tag": "",
+      "parsed_at": "2026-10-28T11:12:20.637750+00:00"
+    }
+  ]
+}
