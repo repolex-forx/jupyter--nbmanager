@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/jupyter/nbmanager/commit/dd26a71c0b625773dab582d47d713d574f2af84b",
       "git:hexsha": "dd26a71c0b625773dab582d47d713d574f2af84b",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
